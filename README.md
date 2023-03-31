@@ -1,5 +1,5 @@
-## Hi there!👋 
-# I'm novice frontend developer.
+# Hi there!👋 
+## I'm novice frontend developer.
 I studied on an educational platform Hexlet.
 
 I'm currently looking for a job.  I will be glad to cooperate and have a chance to work in your team.
@@ -43,7 +43,7 @@ I'm currently looking for a job.  I will be glad to cooperate and have a chance 
 [yup-badge]: https://img.shields.io/badge/yup-gray?style=flat&logoColor=white
 [yup-url]: https://github.com/sindresorhus/on-change
 
-## You can contact me using:
+# You can contact me using:
 
-# Telegram: @marinazaro892
-# Gmail: marianazarova699@gmail.com
+## Telegram: @marinazaro892
+## Gmail: marianazarova699@gmail.com
