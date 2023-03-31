@@ -43,6 +43,8 @@ I'm currently looking for a job.  I will be glad to cooperate and have a chance 
 [yup-badge]: https://img.shields.io/badge/yup-gray?style=flat&logoColor=white
 [yup-url]: https://github.com/sindresorhus/on-change
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianazaro&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ### You can contact me using:
 Telegram: https://t.me/marinazaro892
 
