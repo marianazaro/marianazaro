@@ -43,8 +43,7 @@ I'm currently looking for a job.  I will be glad to cooperate and have a chance 
 [yup-badge]: https://img.shields.io/badge/yup-gray?style=flat&logoColor=white
 [yup-url]: https://github.com/sindresorhus/on-change
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://t.me/marinazaro892" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="marianazarova699@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-</p>
+### You can contact me using:
+Telegram: https://t.me/marinazaro892
+Gmail: marianazarova699@gmail.com
+
